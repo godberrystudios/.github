@@ -16,6 +16,7 @@ Pay-per-use on the [Apify Store](https://apify.com/godberry):
 ## 📚 Open source
 
 - **[awesome-mcp-tools](https://github.com/godberrystudios/awesome-mcp-tools)** — curated list of MCP servers, clients, SDKs, and resources.
+- **[mcp-server-apify-starter](https://github.com/godberrystudios/mcp-server-apify-starter)** — production-ready starter for shipping a pay-per-use MCP server on Apify.
 
 ## ✍️ Writing
 
