@@ -1,8 +1,8 @@
 # Godberry Studios
 
-**MCP-native tools and writing for the AI agent era.**
+**Sharp scrapers and small tools for the AI agent era.**
 
-We build small, sharp tools that let AI agents actually *do* things — extract, transform, publish — without the bloat of legacy SaaS. Pay per use. No seats. No meetings.
+We build focused, pay-per-use tools that do one thing fast — extract, transform, publish — without the bloat of legacy SaaS. No seats. No meetings.
 
 ---
 
@@ -10,8 +10,8 @@ We build small, sharp tools that let AI agents actually *do* things — extract,
 
 Pay-per-use on the [Apify Store](https://apify.com/godberry):
 
-- **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — turn any URL, article, or text into ready-to-post social content. Callable from Claude, ChatGPT, and any MCP client. `$0.07` / transformation.
-- **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — Google Maps reviews for any business in under 60 seconds. Validated across 9 countries. From `$0.10` / place.
+- **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — Google Maps reviews for any business in under 60 seconds. Flat fee per place ($0.10 small / $0.25 large), no API key, validated across 9 countries. Up to 68× cheaper than Google's Places API at chain scale. For reputation monitoring, lead gen, and sentiment pipelines.
+- **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — turn any URL into ready-to-post content for Twitter, LinkedIn, Instagram, Facebook, and email in one call. Callable from Claude, ChatGPT, and any MCP client. `$0.07` / transformation.
 
 ## 📚 Open source
 
