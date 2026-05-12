@@ -22,6 +22,10 @@ Pay-per-use on the [Apify Store](https://apify.com/godberry):
 
 Deep-dives on MCP, WebMCP, x402, agent security, and everything else emerging around autonomous software. → **[godberrystudios.com](https://godberrystudios.com)**
 
+## 👋 Follow along
+
+Short-form notes, build-log cards, and shipping moments on Facebook → **[Godberry Studios on Facebook](https://www.facebook.com/profile.php?id=61570965581596)**
+
 ## 📬 Contact
 
 - **General / partnerships / press:** [hello@godberrystudios.com](mailto:hello@godberrystudios.com)
